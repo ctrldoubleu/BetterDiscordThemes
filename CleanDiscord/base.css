@@ -1,6 +1,7 @@
+//META{"name":"Clean Discord","description":"Clean Discord theme by Ctrl W"}*//{}
 /*---------------------------------------- BACKGROUND ----------------------------------------*/
 body {
-    background: url("https://cdn.discordapp.com/attachments/622572402605293573/632865696631750656/yesss.jpg");
+    background: url("https://picfiles.alphacoders.com/313/313217.png");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -153,22 +154,20 @@ div.sidebar-2K8pFh:hover {
 }
 /*---------------------------------------- SCROLL BAR CHANGES ----------------------------------------*/
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    border-color: rgba(32, 34, 37, 1);
-    background-color: rgba(64, 68, 75, 1);
-    box-shadow: 0px 0px 0px 10px rgba(32, 34, 37, 1) inset;
+    background-color: transparent;
+    border: 0px solid transparent;
 }
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-    border-color: rgba(255, 255, 255, 0);
-    background-color: rgba(64, 68, 75, 1);
+    background-color: transparent;
+    border: 0px solid transparent;
 }
 .theme-light .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    border-color: rgba(32, 34, 37, 1);
-    background-color: rgba(64, 68, 75, 1);
-    box-shadow: 0px 0px 0px 10px rgba(32, 34, 37, 1) inset;
+    background-color: transparent;
+    border: 0px solid transparent;
 }
 .theme-light .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-    border-color: rgba(255, 255, 255, 0);
-    background-color: rgba(64, 68, 75, 1);
+    background-color: transparent;
+    border: 0px solid transparent;
 }
 /*---------------------------------------- PROFILE TAB ----------------------------------------*/
 /* SPOTIFY FIX */
@@ -198,7 +197,7 @@ div.sidebar-2K8pFh:hover {
 }
 /* BACKGROUND */
 .userPopout-3XzG_A {
-    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url("https://cdn.discordapp.com/attachments/625838313265299476/633531060545912832/mtn-sunset.png");
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url("https://picfiles.alphacoders.com/313/313216.png");
     padding-top: 20px;
     padding-bottom: 0px;
     padding-left: 10px;
@@ -258,7 +257,7 @@ div.sidebar-2K8pFh:hover {
 }
 /* COLOR */
 .inner-zqa7da {
-    background-color: rgba(64, 68, 75, 1);
+    background-color: rgba(64, 68, 75, 0.5);
 }
 /*---------------------------------------- OTHER BACKGROUND FIXES / MINOR INDIVIDUAL FIXES ----------------------------------------*/
 /* NITRO STORE PAGE */
@@ -422,7 +421,7 @@ div.sidebar-2K8pFh:hover {
 /*---------------------------------------- MENU TAB BACKGROUND AND PADDING ----------------------------------------*/
 /* BACKGROUND */
 .contextMenu-HLZMGh {
-    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("https://cdn.discordapp.com/attachments/625838313265299476/633531060545912832/mtn-sunset.png");
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("https://picfiles.alphacoders.com/313/313216.png");
     background-position: center top;
     background-size: cover;
 }
