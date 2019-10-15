@@ -1,6 +1,6 @@
 /*---------------------------------------- BACKGROUND ----------------------------------------*/
 body {
-    background: url("/*[[option_image]]*/");
+    background: url("https://cdn.discordapp.com/attachments/622572402605293573/632865696631750656/yesss.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -198,7 +198,7 @@ div.sidebar-2K8pFh:hover {
 }
 /* BACKGROUND */
 .userPopout-3XzG_A {
-    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url("/*[[profile]]*/");
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url("https://cdn.discordapp.com/attachments/625838313265299476/633531060545912832/mtn-sunset.png");
     padding-top: 20px;
     padding-bottom: 0px;
     padding-left: 10px;
@@ -422,7 +422,7 @@ div.sidebar-2K8pFh:hover {
 /*---------------------------------------- MENU TAB BACKGROUND AND PADDING ----------------------------------------*/
 /* BACKGROUND */
 .contextMenu-HLZMGh {
-    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("/*[[menu]]*/");
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("https://cdn.discordapp.com/attachments/625838313265299476/633531060545912832/mtn-sunset.png");
     background-position: center top;
     background-size: cover;
 }
